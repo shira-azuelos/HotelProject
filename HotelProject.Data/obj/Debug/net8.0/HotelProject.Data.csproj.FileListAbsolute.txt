@@ -1,0 +1,25 @@
+C:\Users\shira\Desktop\netcore\‏‏תיקיה חדשה\HotelProject\HotelProject.Data\obj\Debug\net8.0\HotelProject.Data.csproj.AssemblyReference.cache
+C:\Users\shira\Desktop\netcore\‏‏תיקיה חדשה\HotelProject\HotelProject.Data\obj\Debug\net8.0\HotelProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shira\Desktop\netcore\‏‏תיקיה חדשה\HotelProject\HotelProject.Data\obj\Debug\net8.0\HotelProject.Data.AssemblyInfoInputs.cache
+C:\Users\shira\Desktop\netcore\‏‏תיקיה חדשה\HotelProject\HotelProject.Data\obj\Debug\net8.0\HotelProject.Data.AssemblyInfo.cs
+C:\Users\shira\Desktop\netcore\‏‏תיקיה חדשה\HotelProject\HotelProject.Data\obj\Debug\net8.0\HotelProject.Data.csproj.CoreCompileInputs.cache
+T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Data\obj\Debug\net8.0\HotelProject.Data.csproj.AssemblyReference.cache
+T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Data\obj\Debug\net8.0\HotelProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Data\obj\Debug\net8.0\HotelProject.Data.AssemblyInfoInputs.cache
+T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Data\obj\Debug\net8.0\HotelProject.Data.AssemblyInfo.cs
+T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Data\obj\Debug\net8.0\HotelProject.Data.csproj.CoreCompileInputs.cache
+T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Data\obj\Debug\net8.0\HotelProject.Data.sourcelink.json
+T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Data\bin\Debug\net8.0\HotelProject.Data.deps.json
+T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Data\bin\Debug\net8.0\HotelProject.Data.runtimeconfig.json
+T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Data\bin\Debug\net8.0\HotelProject.Data.dll
+T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Data\bin\Debug\net8.0\HotelProject.Data.pdb
+T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Data\bin\Debug\net8.0\HotelProject.Core.dll
+T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Data\bin\Debug\net8.0\HotelProject.Services.dll
+T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Data\bin\Debug\net8.0\HotelProject.Core.pdb
+T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Data\bin\Debug\net8.0\HotelProject.Services.pdb
+T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Data\obj\Debug\net8.0\HotelPro.2E3312DB.Up2Date
+T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Data\obj\Debug\net8.0\HotelProject.Data.dll
+T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Data\obj\Debug\net8.0\refint\HotelProject.Data.dll
+T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Data\obj\Debug\net8.0\HotelProject.Data.pdb
+T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Data\obj\Debug\net8.0\HotelProject.Data.genruntimeconfig.cache
+T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Data\obj\Debug\net8.0\ref\HotelProject.Data.dll

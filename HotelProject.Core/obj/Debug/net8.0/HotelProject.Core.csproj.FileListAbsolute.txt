@@ -1,0 +1,26 @@
+C:\Users\shira\Desktop\netcore\‏‏תיקיה חדשה\HotelProject\HotelProject.Core\bin\Debug\net8.0\HotelProject.Core.deps.json
+C:\Users\shira\Desktop\netcore\‏‏תיקיה חדשה\HotelProject\HotelProject.Core\bin\Debug\net8.0\HotelProject.Core.dll
+C:\Users\shira\Desktop\netcore\‏‏תיקיה חדשה\HotelProject\HotelProject.Core\bin\Debug\net8.0\HotelProject.Core.pdb
+C:\Users\shira\Desktop\netcore\‏‏תיקיה חדשה\HotelProject\HotelProject.Core\obj\Debug\net8.0\HotelProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shira\Desktop\netcore\‏‏תיקיה חדשה\HotelProject\HotelProject.Core\obj\Debug\net8.0\HotelProject.Core.AssemblyInfoInputs.cache
+C:\Users\shira\Desktop\netcore\‏‏תיקיה חדשה\HotelProject\HotelProject.Core\obj\Debug\net8.0\HotelProject.Core.AssemblyInfo.cs
+C:\Users\shira\Desktop\netcore\‏‏תיקיה חדשה\HotelProject\HotelProject.Core\obj\Debug\net8.0\HotelProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\shira\Desktop\netcore\‏‏תיקיה חדשה\HotelProject\HotelProject.Core\obj\Debug\net8.0\HotelProject.Core.dll
+C:\Users\shira\Desktop\netcore\‏‏תיקיה חדשה\HotelProject\HotelProject.Core\obj\Debug\net8.0\refint\HotelProject.Core.dll
+C:\Users\shira\Desktop\netcore\‏‏תיקיה חדשה\HotelProject\HotelProject.Core\obj\Debug\net8.0\HotelProject.Core.pdb
+C:\Users\shira\Desktop\netcore\‏‏תיקיה חדשה\HotelProject\HotelProject.Core\obj\Debug\net8.0\ref\HotelProject.Core.dll
+T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Core\bin\Debug\net8.0\HotelProject.Core.deps.json
+T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Core\bin\Debug\net8.0\HotelProject.Core.dll
+T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Core\bin\Debug\net8.0\HotelProject.Core.pdb
+T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Core\obj\Debug\net8.0\HotelProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Core\obj\Debug\net8.0\HotelProject.Core.AssemblyInfoInputs.cache
+T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Core\obj\Debug\net8.0\HotelProject.Core.AssemblyInfo.cs
+T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Core\obj\Debug\net8.0\HotelProject.Core.csproj.CoreCompileInputs.cache
+T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Core\obj\Debug\net8.0\HotelProject.Core.sourcelink.json
+T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Core\obj\Debug\net8.0\HotelProject.Core.dll
+T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Core\obj\Debug\net8.0\refint\HotelProject.Core.dll
+T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Core\obj\Debug\net8.0\HotelProject.Core.pdb
+T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Core\obj\Debug\net8.0\ref\HotelProject.Core.dll
+T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Core\bin\Debug\net8.0\HotelProject.Core.runtimeconfig.json
+T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Core\obj\Debug\net8.0\HotelProject.Core.csproj.AssemblyReference.cache
+T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Core\obj\Debug\net8.0\HotelProject.Core.genruntimeconfig.cache
