@@ -19,7 +19,7 @@ namespace HotelProject.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server=(localdb)\MSSQLLocalDB;Database=hotel");
+            optionsBuilder.UseSqlServer(@"Server=(localdb)\MSSQLLocalDB;Database=hotel;Trusted_Connection=True;TrustServerCertificate=True;");
         }
 
     }

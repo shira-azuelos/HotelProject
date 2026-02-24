@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using HotelProject.Controllers;
-using HotelProject.Models;
+using HotelProject.Core.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace HotelProjectTest

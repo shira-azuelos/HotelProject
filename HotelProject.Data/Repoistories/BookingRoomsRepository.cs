@@ -20,7 +20,10 @@ namespace HotelProject.Data.Repositories
 
         public async Task<List<BookingRoom>> GetAllAsync()
         {
-            return await _context.BookingRooms.ToListAsync();
+            return await _context.BookingRooms
+                .Include(br => br.Booking)
+                .Include(br => br.Room)
+                .ToListAsync();
         }
 
         public async Task<BookingRoom> GetByIdAsync(int id)

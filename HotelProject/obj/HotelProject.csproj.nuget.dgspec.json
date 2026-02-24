@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "T:\\Group B\\NetCore\\שירה אזואלוס\\HotelProject\\HotelProject\\HotelProject.csproj": {}
+    "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject\\HotelProject.csproj": {}
   },
   "projects": {
-    "T:\\Group B\\NetCore\\שירה אזואלוס\\HotelProject\\HotelProject.Core\\HotelProject.Core.csproj": {
+    "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\HotelProject.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "T:\\Group B\\NetCore\\שירה אזואלוס\\HotelProject\\HotelProject.Core\\HotelProject.Core.csproj",
+        "projectUniqueName": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\HotelProject.Core.csproj",
         "projectName": "HotelProject.Core",
-        "projectPath": "T:\\Group B\\NetCore\\שירה אזואלוס\\HotelProject\\HotelProject.Core\\HotelProject.Core.csproj",
-        "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-        "outputPath": "T:\\Group B\\NetCore\\שירה אזואלוס\\HotelProject\\HotelProject.Core\\obj\\",
+        "projectPath": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\HotelProject.Core.csproj",
+        "packagesPath": "C:\\Users\\shira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\shira\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -85,24 +86,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "T:\\Group B\\NetCore\\שירה אזואלוס\\HotelProject\\HotelProject.Data\\HotelProject.Data.csproj": {
+    "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Data\\HotelProject.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "T:\\Group B\\NetCore\\שירה אזואלוס\\HotelProject\\HotelProject.Data\\HotelProject.Data.csproj",
+        "projectUniqueName": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Data\\HotelProject.Data.csproj",
         "projectName": "HotelProject.Data",
-        "projectPath": "T:\\Group B\\NetCore\\שירה אזואלוס\\HotelProject\\HotelProject.Data\\HotelProject.Data.csproj",
-        "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-        "outputPath": "T:\\Group B\\NetCore\\שירה אזואלוס\\HotelProject\\HotelProject.Data\\obj\\",
+        "projectPath": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Data\\HotelProject.Data.csproj",
+        "packagesPath": "C:\\Users\\shira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\shira\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -118,11 +119,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "T:\\Group B\\NetCore\\שירה אזואלוס\\HotelProject\\HotelProject.Core\\HotelProject.Core.csproj": {
-                "projectPath": "T:\\Group B\\NetCore\\שירה אזואלוס\\HotelProject\\HotelProject.Core\\HotelProject.Core.csproj"
+              "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\HotelProject.Core.csproj": {
+                "projectPath": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\HotelProject.Core.csproj"
               },
-              "T:\\Group B\\NetCore\\שירה אזואלוס\\HotelProject\\HotelProject.Services\\HotelProject.Services.csproj": {
-                "projectPath": "T:\\Group B\\NetCore\\שירה אזואלוס\\HotelProject\\HotelProject.Services\\HotelProject.Services.csproj"
+              "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Services\\HotelProject.Services.csproj": {
+                "projectPath": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Services\\HotelProject.Services.csproj"
               }
             }
           }
@@ -136,7 +137,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -169,24 +171,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "T:\\Group B\\NetCore\\שירה אזואלוס\\HotelProject\\HotelProject.Services\\HotelProject.Services.csproj": {
+    "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Services\\HotelProject.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "T:\\Group B\\NetCore\\שירה אזואלוס\\HotelProject\\HotelProject.Services\\HotelProject.Services.csproj",
+        "projectUniqueName": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Services\\HotelProject.Services.csproj",
         "projectName": "HotelProject.Services",
-        "projectPath": "T:\\Group B\\NetCore\\שירה אזואלוס\\HotelProject\\HotelProject.Services\\HotelProject.Services.csproj",
-        "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-        "outputPath": "T:\\Group B\\NetCore\\שירה אזואלוס\\HotelProject\\HotelProject.Services\\obj\\",
+        "projectPath": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Services\\HotelProject.Services.csproj",
+        "packagesPath": "C:\\Users\\shira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\shira\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -202,8 +204,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "T:\\Group B\\NetCore\\שירה אזואלוס\\HotelProject\\HotelProject.Core\\HotelProject.Core.csproj": {
-                "projectPath": "T:\\Group B\\NetCore\\שירה אזואלוס\\HotelProject\\HotelProject.Core\\HotelProject.Core.csproj"
+              "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\HotelProject.Core.csproj": {
+                "projectPath": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\HotelProject.Core.csproj"
               }
             }
           }
@@ -217,7 +219,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -250,24 +253,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "T:\\Group B\\NetCore\\שירה אזואלוס\\HotelProject\\HotelProject\\HotelProject.csproj": {
+    "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject\\HotelProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "T:\\Group B\\NetCore\\שירה אזואלוס\\HotelProject\\HotelProject\\HotelProject.csproj",
+        "projectUniqueName": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject\\HotelProject.csproj",
         "projectName": "HotelProject",
-        "projectPath": "T:\\Group B\\NetCore\\שירה אזואלוס\\HotelProject\\HotelProject\\HotelProject.csproj",
-        "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-        "outputPath": "T:\\Group B\\NetCore\\שירה אזואלוס\\HotelProject\\HotelProject\\obj\\",
+        "projectPath": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject\\HotelProject.csproj",
+        "packagesPath": "C:\\Users\\shira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\shira\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -283,11 +286,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "T:\\Group B\\NetCore\\שירה אזואלוס\\HotelProject\\HotelProject.Core\\HotelProject.Core.csproj": {
-                "projectPath": "T:\\Group B\\NetCore\\שירה אזואלוס\\HotelProject\\HotelProject.Core\\HotelProject.Core.csproj"
+              "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\HotelProject.Core.csproj": {
+                "projectPath": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\HotelProject.Core.csproj"
               },
-              "T:\\Group B\\NetCore\\שירה אזואלוס\\HotelProject\\HotelProject.Data\\HotelProject.Data.csproj": {
-                "projectPath": "T:\\Group B\\NetCore\\שירה אזואלוס\\HotelProject\\HotelProject.Data\\HotelProject.Data.csproj"
+              "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Data\\HotelProject.Data.csproj": {
+                "projectPath": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Data\\HotelProject.Data.csproj"
               }
             }
           }
@@ -301,7 +304,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -310,6 +314,10 @@
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[12.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.24, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -341,7 +349,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

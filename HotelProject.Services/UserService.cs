@@ -20,9 +20,9 @@ namespace HotelProject.Services
             return await _userRepository.GetAllAsync();
         }
 
-        public async Task<User> GetByIdAsync(int id)
+        public async Task<User> GetByIdAsync(string Tz)
         {
-            return await _userRepository.GetByIdAsync(id);
+            return await _userRepository.GetByIdAsync(Tz);
         }
 
         public async Task AddUserAsync(User user)
@@ -31,9 +31,9 @@ namespace HotelProject.Services
             await _userRepository.SaveAsync();
         }
 
-        public async Task UpdateUserAsync(int id, User user)
+        public async Task UpdateUserAsync(string tz, User user)
         {
-            await _userRepository.UpdateUserAsync(id, user);
+            await _userRepository.UpdateUserAsync(tz, user);
             await _userRepository.SaveAsync();
         }
     }

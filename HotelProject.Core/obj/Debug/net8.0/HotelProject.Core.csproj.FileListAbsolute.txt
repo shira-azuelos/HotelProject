@@ -24,3 +24,18 @@ T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Core\obj\De
 T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Core\bin\Debug\net8.0\HotelProject.Core.runtimeconfig.json
 T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Core\obj\Debug\net8.0\HotelProject.Core.csproj.AssemblyReference.cache
 T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Core\obj\Debug\net8.0\HotelProject.Core.genruntimeconfig.cache
+C:\Users\shira\Desktop\netcore\HotelProject\HotelProject.Core\bin\Debug\net8.0\HotelProject.Core.deps.json
+C:\Users\shira\Desktop\netcore\HotelProject\HotelProject.Core\bin\Debug\net8.0\HotelProject.Core.runtimeconfig.json
+C:\Users\shira\Desktop\netcore\HotelProject\HotelProject.Core\bin\Debug\net8.0\HotelProject.Core.dll
+C:\Users\shira\Desktop\netcore\HotelProject\HotelProject.Core\bin\Debug\net8.0\HotelProject.Core.pdb
+C:\Users\shira\Desktop\netcore\HotelProject\HotelProject.Core\obj\Debug\net8.0\HotelProject.Core.csproj.AssemblyReference.cache
+C:\Users\shira\Desktop\netcore\HotelProject\HotelProject.Core\obj\Debug\net8.0\HotelProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shira\Desktop\netcore\HotelProject\HotelProject.Core\obj\Debug\net8.0\HotelProject.Core.AssemblyInfoInputs.cache
+C:\Users\shira\Desktop\netcore\HotelProject\HotelProject.Core\obj\Debug\net8.0\HotelProject.Core.AssemblyInfo.cs
+C:\Users\shira\Desktop\netcore\HotelProject\HotelProject.Core\obj\Debug\net8.0\HotelProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\shira\Desktop\netcore\HotelProject\HotelProject.Core\obj\Debug\net8.0\HotelProject.Core.sourcelink.json
+C:\Users\shira\Desktop\netcore\HotelProject\HotelProject.Core\obj\Debug\net8.0\HotelProject.Core.dll
+C:\Users\shira\Desktop\netcore\HotelProject\HotelProject.Core\obj\Debug\net8.0\refint\HotelProject.Core.dll
+C:\Users\shira\Desktop\netcore\HotelProject\HotelProject.Core\obj\Debug\net8.0\HotelProject.Core.pdb
+C:\Users\shira\Desktop\netcore\HotelProject\HotelProject.Core\obj\Debug\net8.0\HotelProject.Core.genruntimeconfig.cache
+C:\Users\shira\Desktop\netcore\HotelProject\HotelProject.Core\obj\Debug\net8.0\ref\HotelProject.Core.dll

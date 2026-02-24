@@ -5,6 +5,8 @@ using AutoMapper;
 using HotelProject.Core.DTOs;
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
+using HotelProject.Entities;
 
 namespace HotelProject.Controllers
 {
@@ -23,6 +25,7 @@ namespace HotelProject.Controllers
 
         // GET: api/<BookingRoomController>
         [HttpGet]
+        [Authorize(Roles = "admin")]
         public async Task<IEnumerable<BookingRoomDTO>> Get()
         {
             var bookingRooms = await _BookingRoomService.GetAllAsync();
@@ -31,6 +34,7 @@ namespace HotelProject.Controllers
 
         // GET api/<BookingRoomController>/5
         [HttpGet("{id}")]
+        [Authorize(Roles = "admin")]
         public async Task<ActionResult> Get(int id)
         {
             var bookingRoom = await _BookingRoomService.GetByIdAsync(id);
@@ -43,7 +47,8 @@ namespace HotelProject.Controllers
 
         // POST api/<BookingRoomController>
         [HttpPost]
-        public async Task<ActionResult> Post([FromBody] BookingRoom value)
+        [Authorize(Roles = "admin")]
+        public async Task<ActionResult> Post([FromBody] BookingRoomPostModel value)
         {
             var bookingRoom = _mapper.Map<BookingRoom>(value);
             await _BookingRoomService.AddBookingRoomAsync(bookingRoom);
@@ -52,6 +57,8 @@ namespace HotelProject.Controllers
 
         // DELETE api/<BookingRoomController>/5
         [HttpDelete("{id}")]
+        [Authorize(Roles = "admin")]
+
         public async Task<ActionResult> Delete(int id)
         {
             await _BookingRoomService.DeleteByIdAsync(id); 

@@ -1,114 +1,184 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\",
+  "WorkspaceRootPath": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87CCC815-FDC8-4BF7-A727-89A12DE049FC}|HotelProject\\HotelProject.csproj|c:\\users\\shira\\desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\hotelproject\\hotelproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87CCC815-FDC8-4BF7-A727-89A12DE049FC}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4600CCB-FA55-4B94-920F-3F876C132810}|HotelProject.Services\\HotelProject.Services.csproj|c:\\users\\shira\\desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\hotelproject\\hotelproject.services\\bookingroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4600CCB-FA55-4B94-920F-3F876C132810}|HotelProject.Services\\HotelProject.Services.csproj|solutionrelative:hotelproject.services\\bookingroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|c:\\users\\shira\\desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\hotelproject\\hotelproject.core\\serivecs\\ibookingroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|solutionrelative:hotelproject.core\\serivecs\\ibookingroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08F5974A-7D7E-4336-94C5-AF6EB8961D7E}|HotelProject.Data\\HotelProject.Data.csproj|c:\\users\\shira\\desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\hotelproject\\hotelproject.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08F5974A-7D7E-4336-94C5-AF6EB8961D7E}|HotelProject.Data\\HotelProject.Data.csproj|solutionrelative:hotelproject.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4600CCB-FA55-4B94-920F-3F876C132810}|HotelProject.Services\\HotelProject.Services.csproj|c:\\users\\shira\\desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\hotelproject\\hotelproject.services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4600CCB-FA55-4B94-920F-3F876C132810}|HotelProject.Services\\HotelProject.Services.csproj|solutionrelative:hotelproject.services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|c:\\users\\shira\\desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\hotelproject\\hotelproject.core\\serivecs\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|solutionrelative:hotelproject.core\\serivecs\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4600CCB-FA55-4B94-920F-3F876C132810}|HotelProject.Services\\HotelProject.Services.csproj|c:\\users\\shira\\desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\hotelproject\\hotelproject.services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4600CCB-FA55-4B94-920F-3F876C132810}|HotelProject.Services\\HotelProject.Services.csproj|solutionrelative:hotelproject.services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4600CCB-FA55-4B94-920F-3F876C132810}|HotelProject.Services\\HotelProject.Services.csproj|c:\\users\\shira\\desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\hotelproject\\hotelproject.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4600CCB-FA55-4B94-920F-3F876C132810}|HotelProject.Services\\HotelProject.Services.csproj|solutionrelative:hotelproject.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|c:\\users\\shira\\desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\hotelproject\\hotelproject.core\\serivecs\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|solutionrelative:hotelproject.core\\serivecs\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08F5974A-7D7E-4336-94C5-AF6EB8961D7E}|HotelProject.Data\\HotelProject.Data.csproj|c:\\users\\shira\\desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\hotelproject\\hotelproject.data\\repoistories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08F5974A-7D7E-4336-94C5-AF6EB8961D7E}|HotelProject.Data\\HotelProject.Data.csproj|solutionrelative:hotelproject.data\\repoistories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08F5974A-7D7E-4336-94C5-AF6EB8961D7E}|HotelProject.Data\\HotelProject.Data.csproj|c:\\users\\shira\\desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\hotelproject\\hotelproject.data\\repoistories\\bookingroomsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08F5974A-7D7E-4336-94C5-AF6EB8961D7E}|HotelProject.Data\\HotelProject.Data.csproj|solutionrelative:hotelproject.data\\repoistories\\bookingroomsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|c:\\users\\shira\\desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\hotelproject\\hotelproject.core\\repositories\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|solutionrelative:hotelproject.core\\repositories\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|c:\\users\\shira\\desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\hotelproject\\hotelproject.core\\repositories\\ibookingroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|solutionrelative:hotelproject.core\\repositories\\ibookingroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|c:\\users\\shira\\desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\hotelproject\\hotelproject.core\\repositories\\iroomsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|solutionrelative:hotelproject.core\\repositories\\iroomsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|c:\\users\\shira\\desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\hotelproject\\hotelproject.core\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|solutionrelative:hotelproject.core\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|c:\\users\\shira\\desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\hotelproject\\hotelproject.core\\serivecs\\iroomsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|solutionrelative:hotelproject.core\\serivecs\\iroomsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08F5974A-7D7E-4336-94C5-AF6EB8961D7E}|HotelProject.Data\\HotelProject.Data.csproj|c:\\users\\shira\\desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\hotelproject\\hotelproject.data\\repoistories\\roomsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08F5974A-7D7E-4336-94C5-AF6EB8961D7E}|HotelProject.Data\\HotelProject.Data.csproj|solutionrelative:hotelproject.data\\repoistories\\roomsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08F5974A-7D7E-4336-94C5-AF6EB8961D7E}|HotelProject.Data\\HotelProject.Data.csproj|c:\\users\\shira\\desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\hotelproject\\hotelproject.data\\repoistories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08F5974A-7D7E-4336-94C5-AF6EB8961D7E}|HotelProject.Data\\HotelProject.Data.csproj|solutionrelative:hotelproject.data\\repoistories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87CCC815-FDC8-4BF7-A727-89A12DE049FC}|HotelProject\\HotelProject.csproj|c:\\users\\shira\\desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\hotelproject\\hotelproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87CCC815-FDC8-4BF7-A727-89A12DE049FC}|HotelProject\\HotelProject.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87CCC815-FDC8-4BF7-A727-89A12DE049FC}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87CCC815-FDC8-4BF7-A727-89A12DE049FC}|HotelProject\\HotelProject.csproj|c:\\users\\shira\\desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\hotelproject\\hotelproject\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87CCC815-FDC8-4BF7-A727-89A12DE049FC}|HotelProject\\HotelProject.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelproject\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87CCC815-FDC8-4BF7-A727-89A12DE049FC}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87CCC815-FDC8-4BF7-A727-89A12DE049FC}|HotelProject\\HotelProject.csproj|c:\\users\\shira\\desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\hotelproject\\hotelproject\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87CCC815-FDC8-4BF7-A727-89A12DE049FC}|HotelProject\\HotelProject.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelproject\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87CCC815-FDC8-4BF7-A727-89A12DE049FC}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87CCC815-FDC8-4BF7-A727-89A12DE049FC}|HotelProject\\HotelProject.csproj|c:\\users\\shira\\desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\hotelproject\\hotelproject\\controllers\\bookingroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87CCC815-FDC8-4BF7-A727-89A12DE049FC}|HotelProject\\HotelProject.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelproject\\controllers\\bookingroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87CCC815-FDC8-4BF7-A727-89A12DE049FC}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\controllers\\bookingroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9801782-EE95-4313-BE8B-BF3BCA84BAC5}|HotelProjectTest\\HotelProjectTest.csproj|c:\\users\\shira\\desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\hotelproject\\hotelprojecttest\\roomscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9801782-EE95-4313-BE8B-BF3BCA84BAC5}|HotelProjectTest\\HotelProjectTest.csproj|solutionrelative:hotelprojecttest\\roomscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87CCC815-FDC8-4BF7-A727-89A12DE049FC}|HotelProject\\HotelProject.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87CCC815-FDC8-4BF7-A727-89A12DE049FC}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9801782-EE95-4313-BE8B-BF3BCA84BAC5}|HotelProjectTest\\HotelProjectTest.csproj|c:\\users\\shira\\desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\hotelproject\\hotelprojecttest\\bookingroomcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9801782-EE95-4313-BE8B-BF3BCA84BAC5}|HotelProjectTest\\HotelProjectTest.csproj|solutionrelative:hotelprojecttest\\bookingroomcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87CCC815-FDC8-4BF7-A727-89A12DE049FC}|HotelProject\\HotelProject.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelproject\\entities\\bookingpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87CCC815-FDC8-4BF7-A727-89A12DE049FC}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\entities\\bookingpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4600CCB-FA55-4B94-920F-3F876C132810}|HotelProject.Services\\HotelProject.Services.csproj|c:\\users\\shira\\desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\hotelproject\\hotelproject.services\\hotelproject.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A4600CCB-FA55-4B94-920F-3F876C132810}|HotelProject.Services\\HotelProject.Services.csproj|solutionrelative:hotelproject.services\\hotelproject.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{87CCC815-FDC8-4BF7-A727-89A12DE049FC}|HotelProject\\HotelProject.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelproject\\entities\\userpostputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87CCC815-FDC8-4BF7-A727-89A12DE049FC}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\entities\\userpostputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|c:\\users\\shira\\desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\hotelproject\\hotelproject.core\\models\\bookingroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87CCC815-FDC8-4BF7-A727-89A12DE049FC}|HotelProject\\HotelProject.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelproject\\entities\\bookingputstatusmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87CCC815-FDC8-4BF7-A727-89A12DE049FC}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\entities\\bookingputstatusmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87CCC815-FDC8-4BF7-A727-89A12DE049FC}|HotelProject\\HotelProject.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{87CCC815-FDC8-4BF7-A727-89A12DE049FC}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87CCC815-FDC8-4BF7-A727-89A12DE049FC}|HotelProject\\HotelProject.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelproject\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87CCC815-FDC8-4BF7-A727-89A12DE049FC}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87CCC815-FDC8-4BF7-A727-89A12DE049FC}|HotelProject\\HotelProject.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87CCC815-FDC8-4BF7-A727-89A12DE049FC}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelproject.core\\serivecs\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|solutionrelative:hotelproject.core\\serivecs\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelproject.core\\serivecs\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|solutionrelative:hotelproject.core\\serivecs\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelproject.core\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|solutionrelative:hotelproject.core\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelproject.core\\repositories\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|solutionrelative:hotelproject.core\\repositories\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelproject.core\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|solutionrelative:hotelproject.core\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelproject.core\\dtos\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|solutionrelative:hotelproject.core\\dtos\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F5974A-7D7E-4336-94C5-AF6EB8961D7E}|HotelProject.Data\\HotelProject.Data.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelproject.data\\repoistories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08F5974A-7D7E-4336-94C5-AF6EB8961D7E}|HotelProject.Data\\HotelProject.Data.csproj|solutionrelative:hotelproject.data\\repoistories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F5974A-7D7E-4336-94C5-AF6EB8961D7E}|HotelProject.Data\\HotelProject.Data.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelproject.data\\repoistories\\bookingroomsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08F5974A-7D7E-4336-94C5-AF6EB8961D7E}|HotelProject.Data\\HotelProject.Data.csproj|solutionrelative:hotelproject.data\\repoistories\\bookingroomsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4600CCB-FA55-4B94-920F-3F876C132810}|HotelProject.Services\\HotelProject.Services.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelproject.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4600CCB-FA55-4B94-920F-3F876C132810}|HotelProject.Services\\HotelProject.Services.csproj|solutionrelative:hotelproject.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4600CCB-FA55-4B94-920F-3F876C132810}|HotelProject.Services\\HotelProject.Services.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelproject.services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4600CCB-FA55-4B94-920F-3F876C132810}|HotelProject.Services\\HotelProject.Services.csproj|solutionrelative:hotelproject.services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4600CCB-FA55-4B94-920F-3F876C132810}|HotelProject.Services\\HotelProject.Services.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelproject.services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4600CCB-FA55-4B94-920F-3F876C132810}|HotelProject.Services\\HotelProject.Services.csproj|solutionrelative:hotelproject.services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4600CCB-FA55-4B94-920F-3F876C132810}|HotelProject.Services\\HotelProject.Services.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelproject.services\\bookingroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4600CCB-FA55-4B94-920F-3F876C132810}|HotelProject.Services\\HotelProject.Services.csproj|solutionrelative:hotelproject.services\\bookingroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/hotel/True/SqlTable/dbo.Rooms.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelproject.core\\repositories\\iroomsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|solutionrelative:hotelproject.core\\repositories\\iroomsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelproject.core\\dtos\\bookingroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|solutionrelative:hotelproject.core\\dtos\\bookingroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelproject.core\\dtos\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|solutionrelative:hotelproject.core\\dtos\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F5974A-7D7E-4336-94C5-AF6EB8961D7E}|HotelProject.Data\\HotelProject.Data.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelproject.data\\repoistories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08F5974A-7D7E-4336-94C5-AF6EB8961D7E}|HotelProject.Data\\HotelProject.Data.csproj|solutionrelative:hotelproject.data\\repoistories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelproject.core\\models\\bookingroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|solutionrelative:hotelproject.core\\models\\bookingroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|c:\\users\\shira\\desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\hotelproject\\hotelproject.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelproject.core\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|solutionrelative:hotelproject.core\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/hotel/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87CCC815-FDC8-4BF7-A727-89A12DE049FC}|HotelProject\\HotelProject.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelproject\\entities\\roompostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87CCC815-FDC8-4BF7-A727-89A12DE049FC}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\entities\\roompostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F5974A-7D7E-4336-94C5-AF6EB8961D7E}|HotelProject.Data\\HotelProject.Data.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelproject.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08F5974A-7D7E-4336-94C5-AF6EB8961D7E}|HotelProject.Data\\HotelProject.Data.csproj|solutionrelative:hotelproject.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9801782-EE95-4313-BE8B-BF3BCA84BAC5}|HotelProjectTest\\HotelProjectTest.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelprojecttest\\bookingscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9801782-EE95-4313-BE8B-BF3BCA84BAC5}|HotelProjectTest\\HotelProjectTest.csproj|solutionrelative:hotelprojecttest\\bookingscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelproject.core\\serivecs\\ibookingroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|solutionrelative:hotelproject.core\\serivecs\\ibookingroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelproject.core\\repositories\\ibookingroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|solutionrelative:hotelproject.core\\repositories\\ibookingroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87CCC815-FDC8-4BF7-A727-89A12DE049FC}|HotelProject\\HotelProject.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelproject\\entities\\roomputstatusmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87CCC815-FDC8-4BF7-A727-89A12DE049FC}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\entities\\roomputstatusmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87CCC815-FDC8-4BF7-A727-89A12DE049FC}|HotelProject\\HotelProject.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelproject\\entities\\roomputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87CCC815-FDC8-4BF7-A727-89A12DE049FC}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\entities\\roomputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87CCC815-FDC8-4BF7-A727-89A12DE049FC}|HotelProject\\HotelProject.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelproject\\entities\\bookingroompostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87CCC815-FDC8-4BF7-A727-89A12DE049FC}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\entities\\bookingroompostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F5974A-7D7E-4336-94C5-AF6EB8961D7E}|HotelProject.Data\\HotelProject.Data.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelproject.data\\migrations\\20251118130953_init_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08F5974A-7D7E-4336-94C5-AF6EB8961D7E}|HotelProject.Data\\HotelProject.Data.csproj|solutionrelative:hotelproject.data\\migrations\\20251118130953_init_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelproject.core\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|solutionrelative:hotelproject.core\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F5974A-7D7E-4336-94C5-AF6EB8961D7E}|HotelProject.Data\\HotelProject.Data.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelproject.data\\migrations\\20251209120433_init_db2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08F5974A-7D7E-4336-94C5-AF6EB8961D7E}|HotelProject.Data\\HotelProject.Data.csproj|solutionrelative:hotelproject.data\\migrations\\20251209120433_init_db2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F5974A-7D7E-4336-94C5-AF6EB8961D7E}|HotelProject.Data\\HotelProject.Data.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelproject.data\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08F5974A-7D7E-4336-94C5-AF6EB8961D7E}|HotelProject.Data\\HotelProject.Data.csproj|solutionrelative:hotelproject.data\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelproject.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10B89755-15EB-45FB-BCD7-66031E5D5108}|HotelProject.Core\\HotelProject.Core.csproj|solutionrelative:hotelproject.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87CCC815-FDC8-4BF7-A727-89A12DE049FC}|HotelProject\\HotelProject.csproj|c:\\users\\shira\\desktop\\netcore\\hotelproject\\hotelproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{87CCC815-FDC8-4BF7-A727-89A12DE049FC}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -118,336 +188,564 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject\\Program.cs",
-              "RelativeDocumentMoniker": "HotelProject\\Program.cs",
-              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject\\Program.cs",
-              "RelativeToolTip": "HotelProject\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "BookingPostModel.cs",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject\\Entities\\BookingPostModel.cs",
+              "RelativeDocumentMoniker": "HotelProject\\Entities\\BookingPostModel.cs",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject\\Entities\\BookingPostModel.cs",
+              "RelativeToolTip": "HotelProject\\Entities\\BookingPostModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T21:51:08.051Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject.Data\\DataContext.cs",
-              "RelativeDocumentMoniker": "HotelProject.Data\\DataContext.cs",
-              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject.Data\\DataContext.cs",
-              "RelativeToolTip": "HotelProject.Data\\DataContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T21:50:53.114Z",
+              "WhenOpened": "2026-02-17T12:07:37.305Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "BookingService.cs",
-              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject.Services\\BookingService.cs",
-              "RelativeDocumentMoniker": "HotelProject.Services\\BookingService.cs",
-              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject.Services\\BookingService.cs",
-              "RelativeToolTip": "HotelProject.Services\\BookingService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "HotelProject\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "HotelProject\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAB4AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T17:33:27.366Z",
+              "WhenOpened": "2026-02-17T11:48:16.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingRoomController.cs",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject\\Controllers\\BookingRoomController.cs",
+              "RelativeDocumentMoniker": "HotelProject\\Controllers\\BookingRoomController.cs",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject\\Controllers\\BookingRoomController.cs",
+              "RelativeToolTip": "HotelProject\\Controllers\\BookingRoomController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T12:37:34.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "HotelProject\\Controllers\\BookingsController.cs",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "HotelProject\\Controllers\\BookingsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T12:37:44.392Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BookingRoomService.cs",
-              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject.Services\\BookingRoomService.cs",
-              "RelativeDocumentMoniker": "HotelProject.Services\\BookingRoomService.cs",
-              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject.Services\\BookingRoomService.cs",
-              "RelativeToolTip": "HotelProject.Services\\BookingRoomService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Title": "RoomsController.cs",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject\\Controllers\\RoomsController.cs",
+              "RelativeDocumentMoniker": "HotelProject\\Controllers\\RoomsController.cs",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject\\Controllers\\RoomsController.cs",
+              "RelativeToolTip": "HotelProject\\Controllers\\RoomsController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAADMAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T17:33:53.696Z",
+              "WhenOpened": "2026-01-27T12:37:41.358Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject.Core\\Serivecs\\IUserService.cs",
-              "RelativeDocumentMoniker": "HotelProject.Core\\Serivecs\\IUserService.cs",
-              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject.Core\\Serivecs\\IUserService.cs",
-              "RelativeToolTip": "HotelProject.Core\\Serivecs\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "HotelProject\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject\\Controllers\\UserController.cs",
+              "RelativeToolTip": "HotelProject\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T17:19:39.385Z"
+              "WhenOpened": "2026-01-27T12:37:47.338Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IBookingService.cs",
-              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject.Core\\Serivecs\\IBookingService.cs",
-              "RelativeDocumentMoniker": "HotelProject.Core\\Serivecs\\IBookingService.cs",
-              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject.Core\\Serivecs\\IBookingService.cs",
-              "RelativeToolTip": "HotelProject.Core\\Serivecs\\IBookingService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "UserPostPutModel.cs",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject\\Entities\\UserPostPutModel.cs",
+              "RelativeDocumentMoniker": "HotelProject\\Entities\\UserPostPutModel.cs",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject\\Entities\\UserPostPutModel.cs",
+              "RelativeToolTip": "HotelProject\\Entities\\UserPostPutModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T14:08:07.134Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IBookingRoomService.cs",
-              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject.Core\\Serivecs\\IBookingRoomService.cs",
-              "RelativeDocumentMoniker": "HotelProject.Core\\Serivecs\\IBookingRoomService.cs",
-              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject.Core\\Serivecs\\IBookingRoomService.cs",
-              "RelativeToolTip": "HotelProject.Core\\Serivecs\\IBookingRoomService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T17:24:58.07Z",
+              "WhenOpened": "2026-02-17T11:50:03.086Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject.Services\\UserService.cs",
-              "RelativeDocumentMoniker": "HotelProject.Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject.Services\\UserService.cs",
-              "RelativeToolTip": "HotelProject.Services\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAtAAAAAAAAAA==",
+              "Title": "BookingPutStatusModel.cs",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject\\Entities\\BookingPutStatusModel.cs",
+              "RelativeDocumentMoniker": "HotelProject\\Entities\\BookingPutStatusModel.cs",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject\\Entities\\BookingPutStatusModel.cs",
+              "RelativeToolTip": "HotelProject\\Entities\\BookingPutStatusModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T17:34:08.907Z"
+              "WhenOpened": "2026-02-17T12:07:38.483Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RoomService.cs",
-              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject.Services\\RoomService.cs",
-              "RelativeDocumentMoniker": "HotelProject.Services\\RoomService.cs",
-              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject.Services\\RoomService.cs",
-              "RelativeToolTip": "HotelProject.Services\\RoomService.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T17:32:12.132Z"
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject\\appsettings.json",
+              "RelativeDocumentMoniker": "HotelProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject\\appsettings.json",
+              "RelativeToolTip": "HotelProject\\appsettings.json",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-17T11:42:56.403Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "BookingRepository.cs",
-              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject.Data\\Repoistories\\BookingRepository.cs",
-              "RelativeDocumentMoniker": "HotelProject.Data\\Repoistories\\BookingRepository.cs",
-              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject.Data\\Repoistories\\BookingRepository.cs",
-              "RelativeToolTip": "HotelProject.Data\\Repoistories\\BookingRepository.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "HotelProject\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject\\MappingProfile.cs",
+              "RelativeToolTip": "HotelProject\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T17:07:36.906Z"
+              "WhenOpened": "2026-02-24T00:05:39.714Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "BookingRoomsRepository.cs",
-              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject.Data\\Repoistories\\BookingRoomsRepository.cs",
-              "RelativeDocumentMoniker": "HotelProject.Data\\Repoistories\\BookingRoomsRepository.cs",
-              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject.Data\\Repoistories\\BookingRoomsRepository.cs",
-              "RelativeToolTip": "HotelProject.Data\\Repoistories\\BookingRoomsRepository.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject\\Program.cs",
+              "RelativeDocumentMoniker": "HotelProject\\Program.cs",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject\\Program.cs",
+              "RelativeToolTip": "HotelProject\\Program.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T17:02:01.763Z"
+              "WhenOpened": "2026-02-17T12:28:23.579Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "IBookingRepository.cs",
-              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject.Core\\Repositories\\IBookingRepository.cs",
-              "RelativeDocumentMoniker": "HotelProject.Core\\Repositories\\IBookingRepository.cs",
-              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject.Core\\Repositories\\IBookingRepository.cs",
-              "RelativeToolTip": "HotelProject.Core\\Repositories\\IBookingRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\Serivecs\\IUserService.cs",
+              "RelativeDocumentMoniker": "HotelProject.Core\\Serivecs\\IUserService.cs",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\Serivecs\\IUserService.cs",
+              "RelativeToolTip": "HotelProject.Core\\Serivecs\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T17:24:06.001Z"
+              "WhenOpened": "2026-01-27T12:38:01.752Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "IBookingRoomRepository.cs",
-              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject.Core\\Repositories\\IBookingRoomRepository.cs",
-              "RelativeDocumentMoniker": "HotelProject.Core\\Repositories\\IBookingRoomRepository.cs",
-              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject.Core\\Repositories\\IBookingRoomRepository.cs",
-              "RelativeToolTip": "HotelProject.Core\\Repositories\\IBookingRoomRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\Serivecs\\IBookingService.cs",
+              "RelativeDocumentMoniker": "HotelProject.Core\\Serivecs\\IBookingService.cs",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\Serivecs\\IBookingService.cs",
+              "RelativeToolTip": "HotelProject.Core\\Serivecs\\IBookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T17:24:38.629Z"
+              "WhenOpened": "2026-02-17T12:08:34.537Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "IRoomsRepository.cs",
-              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject.Core\\Repositories\\IRoomsRepository.cs",
-              "RelativeDocumentMoniker": "HotelProject.Core\\Repositories\\IRoomsRepository.cs",
-              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject.Core\\Repositories\\IRoomsRepository.cs",
-              "RelativeToolTip": "HotelProject.Core\\Repositories\\IRoomsRepository.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "HotelProject.Core\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "HotelProject.Core\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T17:11:21.919Z"
+              "WhenOpened": "2026-01-27T12:38:18.559Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject.Core\\Repositories\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "HotelProject.Core\\Repositories\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject.Core\\Repositories\\IUserRepository.cs",
-              "RelativeToolTip": "HotelProject.Core\\Repositories\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\Repositories\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "HotelProject.Core\\Repositories\\IBookingRepository.cs",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\Repositories\\IBookingRepository.cs",
+              "RelativeToolTip": "HotelProject.Core\\Repositories\\IBookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T17:18:55.307Z"
+              "WhenOpened": "2026-01-27T12:33:05.518Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "IRoomsService.cs",
-              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject.Core\\Serivecs\\IRoomsService.cs",
-              "RelativeDocumentMoniker": "HotelProject.Core\\Serivecs\\IRoomsService.cs",
-              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject.Core\\Serivecs\\IRoomsService.cs",
-              "RelativeToolTip": "HotelProject.Core\\Serivecs\\IRoomsService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "HotelProject.Core\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\Models\\Booking.cs",
+              "RelativeToolTip": "HotelProject.Core\\Models\\Booking.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwAcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T19:01:31.326Z"
+              "WhenOpened": "2026-02-17T12:08:01.429Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "RoomsRepository.cs",
-              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject.Data\\Repoistories\\RoomsRepository.cs",
-              "RelativeDocumentMoniker": "HotelProject.Data\\Repoistories\\RoomsRepository.cs",
-              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject.Data\\Repoistories\\RoomsRepository.cs",
-              "RelativeToolTip": "HotelProject.Data\\Repoistories\\RoomsRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Title": "BookingDTO.cs",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\DTOs\\BookingDTO.cs",
+              "RelativeDocumentMoniker": "HotelProject.Core\\DTOs\\BookingDTO.cs",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\DTOs\\BookingDTO.cs",
+              "RelativeToolTip": "HotelProject.Core\\DTOs\\BookingDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T17:11:30.145Z"
+              "WhenOpened": "2026-02-17T12:07:52.801Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject.Data\\Repoistories\\UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Data\\Repoistories\\UserRepository.cs",
               "RelativeDocumentMoniker": "HotelProject.Data\\Repoistories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject.Data\\Repoistories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Data\\Repoistories\\UserRepository.cs",
               "RelativeToolTip": "HotelProject.Data\\Repoistories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T17:19:44.104Z"
+              "WhenOpened": "2026-01-27T12:39:24.653Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "HotelProject\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject\\Controllers\\UserController.cs",
-              "RelativeToolTip": "HotelProject\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAWAAAAAAAAAA==",
+              "Title": "BookingRoomsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Data\\Repoistories\\BookingRoomsRepository.cs",
+              "RelativeDocumentMoniker": "HotelProject.Data\\Repoistories\\BookingRoomsRepository.cs",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Data\\Repoistories\\BookingRoomsRepository.cs",
+              "RelativeToolTip": "HotelProject.Data\\Repoistories\\BookingRoomsRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T14:13:28.396Z"
+              "WhenOpened": "2026-01-27T12:39:28.689Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "RoomsController.cs",
-              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject\\Controllers\\RoomsController.cs",
-              "RelativeDocumentMoniker": "HotelProject\\Controllers\\RoomsController.cs",
-              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject\\Controllers\\RoomsController.cs",
-              "RelativeToolTip": "HotelProject\\Controllers\\RoomsController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAEQAAAApAAAAAAAAAA==",
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Services\\UserService.cs",
+              "RelativeDocumentMoniker": "HotelProject.Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Services\\UserService.cs",
+              "RelativeToolTip": "HotelProject.Services\\UserService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwB0AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T17:15:02.892Z"
+              "WhenOpened": "2026-01-27T12:38:07.825Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "BookingsController.cs",
-              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject\\Controllers\\BookingsController.cs",
-              "RelativeDocumentMoniker": "HotelProject\\Controllers\\BookingsController.cs",
-              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject\\Controllers\\BookingsController.cs",
-              "RelativeToolTip": "HotelProject\\Controllers\\BookingsController.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAC8AAAA1AAAAAAAAAA==",
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Services\\RoomService.cs",
+              "RelativeDocumentMoniker": "HotelProject.Services\\RoomService.cs",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Services\\RoomService.cs",
+              "RelativeToolTip": "HotelProject.Services\\RoomService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAADwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T17:08:17.216Z"
+              "WhenOpened": "2026-01-27T12:38:11.514Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "BookingRoomController.cs",
-              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject\\Controllers\\BookingRoomController.cs",
-              "RelativeDocumentMoniker": "HotelProject\\Controllers\\BookingRoomController.cs",
-              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject\\Controllers\\BookingRoomController.cs",
-              "RelativeToolTip": "HotelProject\\Controllers\\BookingRoomController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "HotelProject.Services\\BookingService.cs",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Services\\BookingService.cs",
+              "RelativeToolTip": "HotelProject.Services\\BookingService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T17:08:12.325Z"
+              "WhenOpened": "2026-02-17T12:14:49.814Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "RoomsControllerTest.cs",
-              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProjectTest\\RoomsControllerTest.cs",
-              "RelativeDocumentMoniker": "HotelProjectTest\\RoomsControllerTest.cs",
-              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProjectTest\\RoomsControllerTest.cs",
-              "RelativeToolTip": "HotelProjectTest\\RoomsControllerTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Title": "BookingRoomService.cs",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Services\\BookingRoomService.cs",
+              "RelativeDocumentMoniker": "HotelProject.Services\\BookingRoomService.cs",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Services\\BookingRoomService.cs",
+              "RelativeToolTip": "HotelProject.Services\\BookingRoomService.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T17:44:06.827Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "BookingRoomControllerTest.cs",
-              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProjectTest\\BookingRoomControllerTest.cs",
-              "RelativeDocumentMoniker": "HotelProjectTest\\BookingRoomControllerTest.cs",
-              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProjectTest\\BookingRoomControllerTest.cs",
-              "RelativeToolTip": "HotelProjectTest\\BookingRoomControllerTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T17:43:01.819Z"
+              "WhenOpened": "2026-02-17T12:14:48.115Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "HotelProject.Services.csproj",
-              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject.Services\\HotelProject.Services.csproj",
-              "RelativeDocumentMoniker": "HotelProject.Services\\HotelProject.Services.csproj",
-              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject.Services\\HotelProject.Services.csproj",
-              "RelativeToolTip": "HotelProject.Services\\HotelProject.Services.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-11T17:32:48.338Z"
+              "Title": "IRoomsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\Repositories\\IRoomsRepository.cs",
+              "RelativeDocumentMoniker": "HotelProject.Core\\Repositories\\IRoomsRepository.cs",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\Repositories\\IRoomsRepository.cs",
+              "RelativeToolTip": "HotelProject.Core\\Repositories\\IRoomsRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T12:38:22.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "dbo.Rooms.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/hotel/True/SqlTable/dbo.Rooms.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/hotel/True/SqlTable/dbo.Rooms.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-02-23T23:44:16.836Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "BookingRoom.cs",
-              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject.Core\\Models\\BookingRoom.cs",
-              "RelativeDocumentMoniker": "HotelProject.Core\\Models\\BookingRoom.cs",
-              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject.Core\\Models\\BookingRoom.cs",
-              "RelativeToolTip": "HotelProject.Core\\Models\\BookingRoom.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "BookingRoomDTO.cs",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\DTOs\\BookingRoomDTO.cs",
+              "RelativeDocumentMoniker": "HotelProject.Core\\DTOs\\BookingRoomDTO.cs",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\DTOs\\BookingRoomDTO.cs",
+              "RelativeToolTip": "HotelProject.Core\\DTOs\\BookingRoomDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T17:23:37.731Z"
+              "WhenOpened": "2026-02-17T12:07:54.624Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject.Core\\Models\\User.cs",
-              "RelativeDocumentMoniker": "HotelProject.Core\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\HotelProject\\HotelProject.Core\\Models\\User.cs",
-              "RelativeToolTip": "HotelProject.Core\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Title": "RoomDTO.cs",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\DTOs\\RoomDTO.cs",
+              "RelativeDocumentMoniker": "HotelProject.Core\\DTOs\\RoomDTO.cs",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\DTOs\\RoomDTO.cs",
+              "RelativeToolTip": "HotelProject.Core\\DTOs\\RoomDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T17:23:52.275Z"
+              "WhenOpened": "2026-02-17T12:07:55.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Data\\Repoistories\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "HotelProject.Data\\Repoistories\\BookingRepository.cs",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Data\\Repoistories\\BookingRepository.cs",
+              "RelativeToolTip": "HotelProject.Data\\Repoistories\\BookingRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T12:32:39.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BookingRoom.cs",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\Models\\BookingRoom.cs",
+              "RelativeDocumentMoniker": "HotelProject.Core\\Models\\BookingRoom.cs",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\Models\\BookingRoom.cs",
+              "RelativeToolTip": "HotelProject.Core\\Models\\BookingRoom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T12:08:02.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "HotelProject.Core\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\Models\\Room.cs",
+              "RelativeToolTip": "HotelProject.Core\\Models\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T12:08:03.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "dbo.Users.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/hotel/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/hotel/True/SqlTable/dbo.Users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-02-23T22:50:39.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RoomPostModel.cs",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject\\Entities\\RoomPostModel.cs",
+              "RelativeDocumentMoniker": "HotelProject\\Entities\\RoomPostModel.cs",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject\\Entities\\RoomPostModel.cs",
+              "RelativeToolTip": "HotelProject\\Entities\\RoomPostModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T12:07:40.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "HotelProject.Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Data\\DataContext.cs",
+              "RelativeToolTip": "HotelProject.Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T12:50:11.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BookingsControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProjectTest\\BookingsControllerTest.cs",
+              "RelativeDocumentMoniker": "HotelProjectTest\\BookingsControllerTest.cs",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProjectTest\\BookingsControllerTest.cs",
+              "RelativeToolTip": "HotelProjectTest\\BookingsControllerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T20:56:46.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IBookingRoomService.cs",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\Serivecs\\IBookingRoomService.cs",
+              "RelativeDocumentMoniker": "HotelProject.Core\\Serivecs\\IBookingRoomService.cs",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\Serivecs\\IBookingRoomService.cs",
+              "RelativeToolTip": "HotelProject.Core\\Serivecs\\IBookingRoomService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T12:08:33.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IBookingRoomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\Repositories\\IBookingRoomRepository.cs",
+              "RelativeDocumentMoniker": "HotelProject.Core\\Repositories\\IBookingRoomRepository.cs",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\Repositories\\IBookingRoomRepository.cs",
+              "RelativeToolTip": "HotelProject.Core\\Repositories\\IBookingRoomRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T12:08:09.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RoomPutStatusModel.cs",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject\\Entities\\RoomPutStatusModel.cs",
+              "RelativeDocumentMoniker": "HotelProject\\Entities\\RoomPutStatusModel.cs",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject\\Entities\\RoomPutStatusModel.cs",
+              "RelativeToolTip": "HotelProject\\Entities\\RoomPutStatusModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T12:07:43.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RoomPutModel.cs",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject\\Entities\\RoomPutModel.cs",
+              "RelativeDocumentMoniker": "HotelProject\\Entities\\RoomPutModel.cs",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject\\Entities\\RoomPutModel.cs",
+              "RelativeToolTip": "HotelProject\\Entities\\RoomPutModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T12:07:41.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BookingRoomPostModel.cs",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject\\Entities\\BookingRoomPostModel.cs",
+              "RelativeDocumentMoniker": "HotelProject\\Entities\\BookingRoomPostModel.cs",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject\\Entities\\BookingRoomPostModel.cs",
+              "RelativeToolTip": "HotelProject\\Entities\\BookingRoomPostModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T12:07:39.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20251118130953_init_db.cs",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Data\\Migrations\\20251118130953_init_db.cs",
+              "RelativeDocumentMoniker": "HotelProject.Data\\Migrations\\20251118130953_init_db.cs",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Data\\Migrations\\20251118130953_init_db.cs",
+              "RelativeToolTip": "HotelProject.Data\\Migrations\\20251118130953_init_db.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T12:08:43.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "HotelProject.Core\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "HotelProject.Core\\DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T12:00:28.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Data\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "HotelProject.Data\\Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Data\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeToolTip": "HotelProject.Data\\Migrations\\DataContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T12:09:04.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20251209120433_init_db2.cs",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Data\\Migrations\\20251209120433_init_db2.cs",
+              "RelativeDocumentMoniker": "HotelProject.Data\\Migrations\\20251209120433_init_db2.cs",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Data\\Migrations\\20251209120433_init_db2.cs",
+              "RelativeToolTip": "HotelProject.Data\\Migrations\\20251209120433_init_db2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T12:09:02.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\Models\\User.cs",
+              "RelativeDocumentMoniker": "HotelProject.Core\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\Models\\User.cs",
+              "RelativeToolTip": "HotelProject.Core\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T11:58:29.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "HotelProject\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject\\Properties\\launchSettings.json",
+              "RelativeToolTip": "HotelProject\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-17T11:42:22.535Z"
             }
           ]
         }

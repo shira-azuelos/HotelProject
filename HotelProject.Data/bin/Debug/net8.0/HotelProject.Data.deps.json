@@ -962,7 +962,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.22"
         },
         "runtime": {
-          "HotelProject.Core.dll": {}
+          "HotelProject.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "HotelProject.Services/1.0.0": {
@@ -971,7 +974,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.22"
         },
         "runtime": {
-          "HotelProject.Services.dll": {}
+          "HotelProject.Services.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

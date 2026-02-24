@@ -21,3 +21,21 @@ T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Services\ob
 T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Services\obj\Debug\net8.0\ref\HotelProject.Services.dll
 T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Services\bin\Debug\net8.0\HotelProject.Services.runtimeconfig.json
 T:\Group B\NetCore\שירה אזואלוס\HotelProject\HotelProject.Services\obj\Debug\net8.0\HotelProject.Services.genruntimeconfig.cache
+C:\Users\shira\Desktop\netcore\HotelProject\HotelProject.Services\bin\Debug\net8.0\HotelProject.Services.deps.json
+C:\Users\shira\Desktop\netcore\HotelProject\HotelProject.Services\bin\Debug\net8.0\HotelProject.Services.runtimeconfig.json
+C:\Users\shira\Desktop\netcore\HotelProject\HotelProject.Services\bin\Debug\net8.0\HotelProject.Services.dll
+C:\Users\shira\Desktop\netcore\HotelProject\HotelProject.Services\bin\Debug\net8.0\HotelProject.Services.pdb
+C:\Users\shira\Desktop\netcore\HotelProject\HotelProject.Services\bin\Debug\net8.0\HotelProject.Core.dll
+C:\Users\shira\Desktop\netcore\HotelProject\HotelProject.Services\bin\Debug\net8.0\HotelProject.Core.pdb
+C:\Users\shira\Desktop\netcore\HotelProject\HotelProject.Services\obj\Debug\net8.0\HotelProject.Services.csproj.AssemblyReference.cache
+C:\Users\shira\Desktop\netcore\HotelProject\HotelProject.Services\obj\Debug\net8.0\HotelProject.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shira\Desktop\netcore\HotelProject\HotelProject.Services\obj\Debug\net8.0\HotelProject.Services.AssemblyInfoInputs.cache
+C:\Users\shira\Desktop\netcore\HotelProject\HotelProject.Services\obj\Debug\net8.0\HotelProject.Services.AssemblyInfo.cs
+C:\Users\shira\Desktop\netcore\HotelProject\HotelProject.Services\obj\Debug\net8.0\HotelProject.Services.csproj.CoreCompileInputs.cache
+C:\Users\shira\Desktop\netcore\HotelProject\HotelProject.Services\obj\Debug\net8.0\HotelProject.Services.sourcelink.json
+C:\Users\shira\Desktop\netcore\HotelProject\HotelProject.Services\obj\Debug\net8.0\HotelPro.80E6971E.Up2Date
+C:\Users\shira\Desktop\netcore\HotelProject\HotelProject.Services\obj\Debug\net8.0\HotelProject.Services.dll
+C:\Users\shira\Desktop\netcore\HotelProject\HotelProject.Services\obj\Debug\net8.0\refint\HotelProject.Services.dll
+C:\Users\shira\Desktop\netcore\HotelProject\HotelProject.Services\obj\Debug\net8.0\HotelProject.Services.pdb
+C:\Users\shira\Desktop\netcore\HotelProject\HotelProject.Services\obj\Debug\net8.0\HotelProject.Services.genruntimeconfig.cache
+C:\Users\shira\Desktop\netcore\HotelProject\HotelProject.Services\obj\Debug\net8.0\ref\HotelProject.Services.dll

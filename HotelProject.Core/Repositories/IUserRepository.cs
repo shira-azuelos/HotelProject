@@ -10,9 +10,9 @@ namespace HotelProject.Core.Repositories
     public interface IUserRepository
     {
         Task<List<User>> GetAllAsync();
-        Task<User> GetByIdAsync(int id);
+        Task<User> GetByIdAsync(string Tz);
         void AddUser(User user);
-        Task UpdateUserAsync(int id, User user);
+        Task UpdateUserAsync(string tz, User user);
         Task SaveAsync();
     }
 }

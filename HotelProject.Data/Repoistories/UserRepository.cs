@@ -1,11 +1,8 @@
 ﻿using HotelProject.Core.Repositories;
 using HotelProject.Core.Models;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
-using Microsoft.EntityFrameworkCore; 
+using Microsoft.EntityFrameworkCore;
 
 namespace HotelProject.Data.Repositories
 {
@@ -23,9 +20,9 @@ namespace HotelProject.Data.Repositories
             return await _context.Users.ToListAsync();
         }
 
-        public async Task<User> GetByIdAsync(int id)
+        public async Task<User> GetByIdAsync(string Tz)
         {
-            return await _context.Users.FindAsync(id);
+            return await _context.Users.FirstOrDefaultAsync(u => u.Tz == Tz);
         }
 
         public void AddUser(User user)
@@ -33,11 +30,11 @@ namespace HotelProject.Data.Repositories
             _context.Users.Add(user);
         }
 
-        public async Task UpdateUserAsync(int id, User value)
+        public async Task UpdateUserAsync(string tz, User value)
         {
-            var user = await _context.Users.FindAsync(id);
+            var user = await _context.Users.FirstOrDefaultAsync(u => u.Tz == tz);
 
-            if (user != null) 
+            if (user != null)
             {
                 user.Tz = value.Tz;
                 user.FirstName = value.FirstName;

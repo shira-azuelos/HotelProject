@@ -15,6 +15,7 @@ namespace HotelProject.Core.Models
         public string FirstName { get; set; } 
         public string LastName { get; set; }
         public string Phone { get; set; }
+        public string password { get; set; }
         public UserRole Role { get; set; } 
         public ICollection<Booking> Bookings { get; set; } = new List<Booking>();
     }

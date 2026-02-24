@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using HotelProject.Controllers;
-using HotelProject.Models;
+using HotelProject.Entities;
 using Microsoft.AspNetCore.Mvc;
 using Xunit; 
 

@@ -11,11 +11,11 @@ namespace HotelProject.Core.Repositories
     {
         Task<List<User>> GetAllAsync();
 
-        Task<User> GetByIdAsync(int id);
+        Task<User> GetByIdAsync(string Tz);
 
         Task AddUserAsync(User user);
 
-        Task UpdateUserAsync(int id, User user);
+        Task UpdateUserAsync(string tz, User user);
 
     }
 }

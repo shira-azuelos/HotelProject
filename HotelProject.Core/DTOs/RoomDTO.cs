@@ -9,6 +9,7 @@ namespace HotelProject.Core.DTOs
 {
     public class RoomDTO
     {
+        public int Id { get; set; }
         public int RoomNumber { get; set; }
         public RoomStatus Status { get; set; }
         public int NumberOfBeds { get; set; }

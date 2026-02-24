@@ -4066,23 +4066,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\student\\.nuget\\packages\\": {},
+    "C:\\Users\\shira\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "T:\\Group B\\NetCore\\שירה אזואלוס\\HotelProject\\HotelProject.Core\\HotelProject.Core.csproj",
+      "projectUniqueName": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\HotelProject.Core.csproj",
       "projectName": "HotelProject.Core",
-      "projectPath": "T:\\Group B\\NetCore\\שירה אזואלוס\\HotelProject\\HotelProject.Core\\HotelProject.Core.csproj",
-      "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-      "outputPath": "T:\\Group B\\NetCore\\שירה אזואלוס\\HotelProject\\HotelProject.Core\\obj\\",
+      "projectPath": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\HotelProject.Core.csproj",
+      "packagesPath": "C:\\Users\\shira\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\shira\\Desktop\\netcore\\HotelProject\\HotelProject.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\shira\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4109,7 +4109,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -4150,7 +4151,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
