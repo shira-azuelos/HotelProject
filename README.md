@@ -70,7 +70,7 @@ cd Claient
 npm install
 npm run dev
  Author
-Shira Azuelos Software Engineering Student GitHub Profile
+Shira Azuelos Software Engineering Student 
 
 This project was developed as part of a software engineering curriculum.
 ```
