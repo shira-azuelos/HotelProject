@@ -66,7 +66,7 @@ git clone [https://github.com/shira-azuelos/HotelProject.git](https://github.com
 cd Server
 dotnet restore
 dotnet run
-cd Claient
+cd Client
 npm install
 npm run dev
  Author
