@@ -1,8 +1,0 @@
-# .NET Core
-[Bb]in/
-[Oo]bj/
-
-# React / Node.js
-node_modules/
-build/
-.env
