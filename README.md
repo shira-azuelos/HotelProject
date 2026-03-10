@@ -1,6 +1,6 @@
 # HotelProject - Fullstack Hotel Management System
 
-### [🇮🇱 פרויקט סיכום - מערכת לניהול מלון](#hebrew-version) | [🇺🇸 Technical Documentation](#english-version)
+### [ פרויקט סיכום - מערכת לניהול מלון](#hebrew-version) | [🇺🇸 Technical Documentation](#english-version)
 
 ---
 
@@ -20,7 +20,7 @@ The project demonstrates a modern architecture, separating concerns between a ro
 - **Responsive UI:** Optimized for all screen sizes (Mobile, Tablet, Desktop) using Tailwind CSS.
 - **Type Safety:** Built with **TypeScript** to ensure code reliability and maintainability.
 
-### 🛠 Tech Stack
+###  Tech Stack
 
 - **Backend:** .NET Core (Web API) – Implementing RESTful principles.
 - **Frontend:** React 18, Next.js, TypeScript.
