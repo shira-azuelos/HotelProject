@@ -30,7 +30,7 @@ The project demonstrates a modern architecture, separating concerns between a ro
 ### Project Structure
 
 - `Server/` - The backend logic, API controllers, and data models.
-- `Claient/` - The frontend application, components, and state management.
+- `Client/` - The frontend application, components, and state management.
 
 ---
 
