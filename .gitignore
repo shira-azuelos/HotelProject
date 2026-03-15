@@ -1,0 +1,16 @@
+# Node (React)
+node_modules/
+dist/
+build/
+.env.local
+
+# .NET Core (Server)
+bin/
+obj/
+appsettings.Development.json
+.vs/
+*.user
+
+# OS Files
+Thumbs.db
+.DS_Store
