@@ -1,0 +1,13 @@
+# User-specific files
+.vs/
+.vscode/
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Publish output
+publish/
+
+# Avoid tracking user secrets or app settings with secrets
+appsettings.Development.json
